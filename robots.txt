@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /privacy/
+
+Sitemap: https://lr.example.com/sitemap.xml
